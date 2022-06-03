@@ -1,0 +1,40 @@
+body {
+font-family: "Palatino Linotype", sans-serif;
+font-size : 16px;
+line-height: 1.5;
+margin: 5px auto.;
+text-align : justify;
+}
+header {
+font-family: "Merriweather", serif;
+background-image : url("back.jpg");
+text-align: center;
+}
+h1{
+font-size: 24px;
+text-align: center;
+background: #eef;
+}
+
+images {
+	width : 25% ;
+	clear: both;
+}
+article, aside, footer, header, menu, nav, section {
+display: block;
+}
+article{
+margin: 20px auto}
+section{
+margin: 20px auto;
+}
+texts{
+margin :5px ;
+	}
+images, nav, texts ,aside{
+	padding: 2px;
+}
+
+nav {
+	float : right;
+}
